@@ -30,7 +30,7 @@ You should have R installed on your computer.
 
 ### Running the Code
 
-With your input files in the 'test' directory, you can now run the R code. Navigate to the directory containing the R script in a terminal and type `RF-NETWORK algorithm of keystone.R` (replace "script_name.R" with the name of the script you want to run).
+With your input files in the 'test' directory, you can now run the R code. Navigate to the directory containing the R script in a terminal and type `RF-NETWORK algorithm of keystone.R`.
 
 ## Questions or Problems?
 
