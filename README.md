@@ -1,6 +1,6 @@
 ---
 
-# Core Algorithm Manuscript SBB20680 in R: Keystone Species Identification in Microbial Ecology
+# Core Algorithm of "Ensemble learning algorithms to elucidate the core microbiome's impact on carbon content and degradation properties at the soil aggregate level" in R: Keystone Species Identification in Microbial Ecology
 
 This repository contains the R code for an ensemble learning algorithm designed for the identification of keystone species in microbial ecology studies. The core algorithm integrates the benefits of Random Forest and Network Analysis methodologies.
 
@@ -38,8 +38,8 @@ If you encounter any issues or have any questions about running the code, please
 
 ## Citation
 
-If you use this code in your research, please cite our paper: "Microbial Keystone Taxa Predict Variations in Soil Aggregate-Level Carbon Accrual: Evidence from Three Decades of Inorganic and Organic Fertilization" (details of the paper will be provided when available).
+If you use this code in your research, please cite our paper: Ensemble learning algorithms to elucidate the core microbiome's impact on carbon content and degradation properties at the soil aggregate level" .
 
 ---
-Zhou, Fengwu and Jiang, Yubin and Han, Cheng and Deng, Huan and Fan, Kong and Liu, Kailou and Huang, Shangshu and Shi, Yu and Zhang, Kaoping and Zhong, Wen-Hui, Microbial Keystone Taxa Predict Variations in Soil Aggregate-Level Carbon Accrual: Evidence from Three Decades of Inorganic and Organic Fertilization (October 19, 2022). Available at SSRN: https://ssrn.com/abstract=4252607 or http://dx.doi.org/10.2139/ssrn.4252607
+Zhou, F., Jiang, Y., Han, C., Deng, H., Dai, Z., Wang, Z., Zhong, W., 2024. Ensemble learning algorithms to elucidate the core microbiome's impact on carbon content and degradation properties at the soil aggregate level. Science of The Total Environment 946, 174528. http://dx.doi.org/https://doi.org/10.1016/j.scitotenv.2024.174528.
 
